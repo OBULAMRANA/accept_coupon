@@ -92,5 +92,9 @@ Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times 
 ---
 ![image](https://github.com/user-attachments/assets/6ba2f4e9-8170-4981-9242-b71fb395014c)
 
+Coupons Accepted/rejected for coupons 'Coffee House'
+---
+![image](https://github.com/user-attachments/assets/d477740f-3ac1-4b61-8a72-c1ad3e1ab51f)
+
 
 
