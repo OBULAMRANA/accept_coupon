@@ -73,4 +73,24 @@ Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times 
 ---
 ![image](https://github.com/user-attachments/assets/4c602c90-e79b-4b09-8460-c1845d119fe4)
 
+Practical Application Example 2
+----
+Explored the information with same senarions on the same dataset with coupon type CoffeeHouse.
+Data Understanding  and cleanup.**
+---
+Same as above cleanup
+
+Acceptance rate comparision (Under 25 and Above 25)
+---
+![image](https://github.com/user-attachments/assets/159d6c14-3b0c-4e3b-9566-e31f14df25e7)
+
+Acceptance rate comparision (no kids,other than farming,went more than once to bar)
+---
+![image](https://github.com/user-attachments/assets/017745c7-f97a-4df4-ab40-73ef09639ca7)
+
+Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times -Income less than 50K)
+---
+![image](https://github.com/user-attachments/assets/6ba2f4e9-8170-4981-9242-b71fb395014c)
+
+
 
