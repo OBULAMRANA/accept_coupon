@@ -82,18 +82,29 @@ Same as above cleanup
 
 Acceptance rate comparision (Under 25 and Above 25)
 ---
+Drivers below 25 go to Coffee Shop:247
+Drivers above 25 go to Coffee Shop:580
 ![image](https://github.com/user-attachments/assets/159d6c14-3b0c-4e3b-9566-e31f14df25e7)
 
 Acceptance rate comparision (no kids,other than farming,went more than once to bar)
 ---
+No Kids passengers go to the coffee shop : 16
+No Farming passengers go to the coffee ship:16
+More than once go to the coffee ship:17
+               
 ![image](https://github.com/user-attachments/assets/017745c7-f97a-4df4-ab40-73ef09639ca7)
 
 Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times -Income less than 50K)
 ---
+Under 30 go to the conffee shop: 10
+Other than window go to the conffee shop:  16
+more than 4 times -Income less than 50K go to the Coffee Shop: 0
 ![image](https://github.com/user-attachments/assets/6ba2f4e9-8170-4981-9242-b71fb395014c)
 
-Coupons Accepted/rejected for coupons 'Coffee House'
+Coupons Accepted/rejected for coupon type 'Coffee House'
 ---
+Total number of Coupons for coupons type 'Coffee House' :108
+Total number of Coupons accepted:62
 ![image](https://github.com/user-attachments/assets/d477740f-3ac1-4b61-8a72-c1ad3e1ab51f)
 
 
