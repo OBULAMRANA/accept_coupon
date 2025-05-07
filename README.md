@@ -47,10 +47,24 @@ Data Understanding  and manupulate the data.**
 
  Types of Coupons accepted and rejected from the original dataset  
 ---
+
+Total number of Coupons :12684
+
+Total number of Coupons accepted:7210
+
+Total number of Coupons Rejected:5474
+
 ![image](https://github.com/user-attachments/assets/ec3700f9-d9d9-45d9-a20b-33bbb85f765c)
 
 Different types of coupons original dataset  
 ---
+Below are the different types of coupons and their count in the bar graph.
+Type of Coupons :
+1. Coffee House
+2. Restaurant(<20)
+3. Carry out & take away
+4. Bar
+5. Restaurant(20-50)
  ![image](https://github.com/user-attachments/assets/c8ae0579-e3e4-4767-b677-1eacc86e354f)
 
 Histogram 
@@ -59,14 +73,37 @@ Histogram
 
 Coupons Accepted/Rejected
 ---
+
+Bar Cupons Accepted:827
+
+Bar Cupons Rejected:1190
+
+41% Accepted the bar coupons
+
+
 ![image](https://github.com/user-attachments/assets/09ac1ef5-6651-4477-8fc5-0e01a25b0944)
 
 Acceptance rate comparision (Under 25 and Above 25)
 ---
+
+Total Bar Accepted Count: 2017
+
+Drivers below 25: 247
+
+Drivers above 25:580
+
 ![image](https://github.com/user-attachments/assets/e048a629-cc20-437d-aead-7911bdb891af)
 
 Acceptance rate comparision (no kids,other than farming,went more than once to bar)
 ---
+
+Drivers who goes to bar with passaner are not kids :551
+
+Drivers who goes to bar with no kids & passaner are not farming, fishing, or forestry : 551
+
+Drivers who goes to bar more than once :596
+
+
 ![image](https://github.com/user-attachments/assets/34ee0e05-3f49-48db-89c1-a8c17ec3e034)
 
 Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times -Income less than 50K)
