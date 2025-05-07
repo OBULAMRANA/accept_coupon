@@ -57,4 +57,20 @@ Histogram
 ---
 ![image](https://github.com/user-attachments/assets/ce3b9745-0d3f-4b7a-b693-9080f3b10ce0)
 
+Coupons Accepted/Rejected
+---
+![image](https://github.com/user-attachments/assets/09ac1ef5-6651-4477-8fc5-0e01a25b0944)
+
+Acceptance rate comparision (Under 25 and Above 25)
+---
+![image](https://github.com/user-attachments/assets/e048a629-cc20-437d-aead-7911bdb891af)
+
+Acceptance rate comparision (no kids,other than farming,went more than once to bar)
+---
+![image](https://github.com/user-attachments/assets/34ee0e05-3f49-48db-89c1-a8c17ec3e034)
+
+Acceptance rate comparision (under-30', 'no-kids-widow', 'bar more than 4 times -Income less than 50K)
+---
+![image](https://github.com/user-attachments/assets/4c602c90-e79b-4b09-8460-c1845d119fe4)
+
 
